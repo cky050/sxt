@@ -1,0 +1,17 @@
+*.a
+*.o
+*.XML
+*.obj
+*.tlog
+*.manifest
+*.ilk
+*.lastbuildstate
+*.pch
+*.pdb
+*.idb
+\*.log
+*.log
+*.exe
+*.exe.embed.manifest.res
+*_manifest.rc
+*.suo
